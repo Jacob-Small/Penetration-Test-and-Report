@@ -1,3 +1,5 @@
+The Powerpoint presentation can be downloaded here:
+
 ![Penetration Test and Report](files/Penetration-Test-and-Report.pptx)
 
 Alternatively, the slides can be viewed below:
